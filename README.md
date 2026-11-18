@@ -29,6 +29,7 @@ The credentials in `.env.example` and `docker-compose.yml` are for local develop
 | GET | /api/urls/:shortCode | Get URL info |
 | GET | /api/urls | List all URLs |
 | DELETE | /api/urls/:shortCode | Delete a URL |
+Interactive docs are available at `http://localhost:3000/docs` after starting the server.
 
 ## Example
 
