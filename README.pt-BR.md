@@ -31,6 +31,7 @@ As credenciais do `.env.example` e do `docker-compose.yml` servem só para desen
 | GET | /api/urls/:shortCode | Consulta os dados de uma URL |
 | GET | /api/urls | Lista todas as URLs |
 | DELETE | /api/urls/:shortCode | Exclui uma URL |
+A documentação interativa fica em `http://localhost:3000/docs` depois de iniciar o servidor.
 
 ## Exemplo
 
