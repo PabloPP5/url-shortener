@@ -1,4 +1,5 @@
 REST API to shorten URLs, built with Node.js, TypeScript, Express, PostgreSQL, Prisma and Zod.
+
 [Português](README.pt-BR.md)
 
 ## Requirements
